@@ -33,10 +33,13 @@ export interface Certification {
   id: string;
   title: string;
   issuer: string;
+  category: 'Cloud & AI' | 'Programming' | 'Data Science' | 'Systems';
   description: string;
   date: string;
+  credentialId?: string;
   verifiedUrl: string;
   skills: string[];
+  featured?: boolean;
 }
 
 export const PERSONAL_INFO = {
@@ -191,6 +194,7 @@ export const PROJECTS: Project[] = [
     tags: ['TypeScript', 'Computer Vision', 'AI / ML', 'Geospatial', 'Marine Tech'],
     category: 'AI & Data',
     githubUrl: 'https://github.com/VinayKumbhare/AquaGuard',
+    liveUrl: 'https://aqua-guard-six.vercel.app/',
     featured: true,
     highlights: [
       'Automated sonar imagery anomaly detection and categorization',
@@ -278,28 +282,97 @@ export const CERTIFICATIONS: Certification[] = [
     id: 'google-cloud-arcade-mastery',
     title: 'Google Cloud Arcade Program — 120+ Badges',
     issuer: 'Google Cloud Skills Boost',
+    category: 'Cloud & AI',
     description: 'Earned 120+ verified skill badges and milestone recognitions in Cloud Architecture, Generative AI, Bigtable, and Lakehouse Analytics.',
     date: 'Jan 2026 - Present',
+    credentialId: '844f7b5a-4b0d-4fa2-8bc9-99d65271c633',
     verifiedUrl: 'https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633',
-    skills: ['GCP', 'Vertex AI', 'Bigtable', 'BigQuery', 'Cloud Security']
+    skills: ['GCP', 'Vertex AI', 'Bigtable', 'BigQuery', 'Cloud Security'],
+    featured: true
+  },
+  {
+    id: 'gcp-genai-level3',
+    title: 'Applied Generative AI — Level 3 Specialist',
+    issuer: 'Google Cloud Skills Boost',
+    category: 'Cloud & AI',
+    description: 'Advanced hands-on certification in multimodal prompting, document extraction with Gemini models, vector search, and Retrieval-Augmented Generation (RAG).',
+    date: 'Aug 2026',
+    credentialId: 'GCP-GENAI-LVL3-2026',
+    verifiedUrl: 'https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633',
+    skills: ['Gemini 1.5 Pro', 'Multimodal RAG', 'Prompt Design', 'Vertex AI'],
+    featured: true
   },
   {
     id: 'python-programming-cert',
-    title: 'Python Programming Certification',
+    title: 'Python Programming & Object-Oriented Architecture',
     issuer: 'Academic & Professional Coursework',
-    description: 'Comprehensive mastery of Python programming, data structures, object-oriented concepts, and algorithmic problem solving.',
+    category: 'Programming',
+    description: 'Evaluated mastery in Python 3 programming, object-oriented paradigms, dynamic typing, algorithmic problem-solving, and automated scripting.',
     date: '2025',
+    credentialId: 'PY-3904-VK-2025',
     verifiedUrl: 'https://github.com/VinayKumbhare',
-    skills: ['Python 3', 'OOP', 'Data Structures', 'File I/O']
+    skills: ['Python 3', 'OOP', 'Data Structures', 'Automation', 'File I/O'],
+    featured: true
   },
   {
     id: 'c-cpp-programming-cert',
-    title: 'C / C++ Systems Programming',
+    title: 'C / C++ Systems Programming & Memory Architecture',
     issuer: 'Academic & Foundation Curriculum',
-    description: 'Certified in low-level procedural and object-oriented development, pointer arithmetic, memory management, and algorithmic design.',
+    category: 'Systems',
+    description: 'Certified in low-level procedural and object-oriented development, pointer arithmetic, manual memory management, dynamic heap allocation, and algorithmic design.',
     date: '2025',
+    credentialId: 'CS-CPP-8812-VK',
+    verifiedUrl: 'https://github.com/VinayKumbhare/c-cpp-mini-projects',
+    skills: ['C', 'C++', 'Pointers', 'Dynamic Memory', 'Algorithms'],
+    featured: true
+  },
+  {
+    id: 'gcp-bigtable-engineering',
+    title: 'Cloud Bigtable & Scalable NoSQL Engineering',
+    issuer: 'Google Cloud',
+    category: 'Cloud & AI',
+    description: 'Practical certification in provisioning high-throughput Bigtable instances, designing optimal row key schemas, and low-latency querying.',
+    date: 'Sep 2026',
+    credentialId: 'GCP-BIGTABLE-1284',
+    verifiedUrl: 'https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633',
+    skills: ['Cloud Bigtable', 'NoSQL', 'Row Key Design', 'Data Engineering'],
+    featured: false
+  },
+  {
+    id: 'data-analysis-python',
+    title: 'Data Analysis with Python, Pandas & NumPy',
+    issuer: 'Data Science Curriculum & Labs',
+    category: 'Data Science',
+    description: 'Practical evaluation in data cleaning, exploratory data analysis (EDA), feature manipulation, and statistical distribution modeling on real-world datasets.',
+    date: '2025',
+    credentialId: 'DS-PANDAS-VK-2025',
+    verifiedUrl: 'https://github.com/VinayKumbhare/student-marks-analysis',
+    skills: ['Pandas', 'NumPy', 'EDA', 'Statistical Analysis'],
+    featured: false
+  },
+  {
+    id: 'gcp-dataplex-lakehouse',
+    title: 'Dataplex Lakehouse Governance & Discovery',
+    issuer: 'Google Cloud Skills Boost',
+    category: 'Cloud & AI',
+    description: 'Certification in architecting modern unified lakehouses, configuring data quality checks, data lineage, and metadata discovery across heterogeneous storage.',
+    date: 'Sep 2026',
+    credentialId: 'GCP-LAKEHOUSE-4491',
+    verifiedUrl: 'https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633',
+    skills: ['Dataplex', 'Data Governance', 'Lakehouse', 'Metadata Discovery'],
+    featured: false
+  },
+  {
+    id: 'git-github-engineering',
+    title: 'Git, GitHub & Collaborative Open Source Engineering',
+    issuer: 'Developer Tooling Curriculum',
+    category: 'Programming',
+    description: 'Certified in modern version control workflows, branching strategies, merge conflict resolution, pull request reviews, and open source repository stewardship.',
+    date: '2025',
+    credentialId: 'GIT-HUB-ENG-2025',
     verifiedUrl: 'https://github.com/VinayKumbhare',
-    skills: ['C', 'C++', 'Memory Management', 'Algorithms']
+    skills: ['Git', 'GitHub', 'CI/CD Basics', 'Branching', 'Code Review'],
+    featured: false
   }
 ];
 
