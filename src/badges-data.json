@@ -1,0 +1,722 @@
+[
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27915432",
+    "image": "https://cdn.qwiklabs.com/i1ml14cu3SISunGy1BoiRAPaHRb7HYISnLa58dDIbWw%3D",
+    "title": "Inspect Rich Documents with Gemini Multimodality and Multimodal RAG",
+    "earned": "Earned Sep 12, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27895707",
+    "image": "https://cdn.qwiklabs.com/uk7ZUo5ZvLhTLPGRNjDfAlgLdEH8I8sZtuxvIOUBn5w%3D",
+    "title": "Create and Manage Bigtable Instances",
+    "earned": "Earned Sep 12, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27894518",
+    "image": "https://cdn.qwiklabs.com/Q65ULMvSSs5Pzk8OZzjVHi6aToHCWXqebjR0bJOJdSY%3D",
+    "title": "Enrich Metadata and Discovery of Lakehouse Data",
+    "earned": "Earned Sep 12, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27892556",
+    "image": "https://cdn.qwiklabs.com/PWrgdfhYPRi%2BC2jMkG7%2BXApLiDL8XHorA1rQ8QkRM10%3D",
+    "title": "Integrate BigQuery Data and Google Workspace using Apps Script",
+    "earned": "Earned Sep 12, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27891741",
+    "image": "https://cdn.qwiklabs.com/CNcT7ezXSyoEtWiY3x3aMfDGf%2FNKLr438ZEAcOb8h9I%3D",
+    "title": "Secure Lakehouse Data",
+    "earned": "Earned Sep 12, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27891233",
+    "image": "https://cdn.qwiklabs.com/B3CQ6gLV%2FxruudoOFsfPB7HD23bEvuqs0UatrfBBLeA%3D",
+    "title": "Monitor Environments with Google Cloud Managed Service for Prometheus",
+    "earned": "Earned Sep 12, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27889044",
+    "image": "https://cdn.qwiklabs.com/HgMdNWL2DnhrU0%2BqraD5DalA6hI96cknPQ8Oi52nvfQ%3D",
+    "title": "Engineer Data for Predictive Modeling with BigQuery ML",
+    "earned": "Earned Sep 12, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27888823",
+    "image": "https://cdn.qwiklabs.com/fKF%2BJtakZ5RXD%2Fm%2Bk6%2BM%2BUi0J4th2U9FSC2resWA1X0%3D",
+    "title": "Develop and Secure APIs with Apigee X",
+    "earned": "Earned Sep 11, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27888554",
+    "image": "https://cdn.qwiklabs.com/GLfVO7bmeMcfYC8AI8NBW8gnMmpYHel4EFovC6enUio%3D",
+    "title": "Use Machine Learning APIs on Google Cloud",
+    "earned": "Earned Sep 11, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27888430",
+    "image": "https://cdn.qwiklabs.com/Je38dFSeXh1I3XpoWJYmQ7%2BRKX6ChB2GaGQweuw0kQI%3D",
+    "title": "Set Up an App Dev Environment on Google Cloud",
+    "earned": "Earned Sep 11, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27888415",
+    "image": "https://cdn.qwiklabs.com/1hOfzEbKFu8crWO%2BKqhe3UhEmTSyjsS3KthogIcZMnk%3D",
+    "title": "Implement Cloud Collaboration and Productivity Workflows",
+    "earned": "Earned Sep 11, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27888169",
+    "image": "https://cdn.qwiklabs.com/W%2FApgdYs%2Bn4QOYhy42XW40XtBAuCpET%2FsIo2XoBiDEo%3D",
+    "title": "Implement Speech and Language Solutions with Pre-trained APIs",
+    "earned": "Earned Sep 11, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27871134",
+    "image": "https://cdn.qwiklabs.com/ZYB8iTu6wZAMMbhv9prMXx9UCXaY5iamGUR%2FFMsMEpk%3D",
+    "title": "Migrate MySQL Data to Cloud SQL Using Database Migration Service",
+    "earned": "Earned Sep 11, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27854074",
+    "image": "https://cdn.qwiklabs.com/N7YJ6ts7amzUsmbeFYSW4Pjxrbnf3%2BEp0GJ6Q9zRiHE%3D",
+    "title": "Create ML Models with BigQuery ML",
+    "earned": "Earned Sep 11, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27851614",
+    "image": "https://cdn.qwiklabs.com/%2Ff3SH1GNwC%2FfixyFGKxWzLPoCWJaYgPIZn9VFiePj6Q%3D",
+    "title": "Build Serverless Applications with Cloud Run Functions",
+    "earned": "Earned Sep 11, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27850410",
+    "image": "https://cdn.qwiklabs.com/exoUI6uW0SBz2t9016%2BlsCIi4jprYvGJU1KyoyOgisc%3D",
+    "title": "Automate Data Capture at Scale with Document AI",
+    "earned": "Earned Sep 10, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27841286",
+    "image": "https://cdn.qwiklabs.com/%2FoE55xvkt049O7eZZESKv4nls87F9dNz1tEAzMbTXqs%3D",
+    "title": "Pitch Perfect",
+    "earned": "Earned Sep 10, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27839351",
+    "image": "https://cdn.qwiklabs.com/HEzAuQBpxv%2Fhl%2BZ5GYdhQbcMiSvHGTPo4olJ3oGCZ5c%3D",
+    "title": "Perform Predictive Data Analysis in BigQuery",
+    "earned": "Earned Sep 10, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27837770",
+    "image": "https://cdn.qwiklabs.com/Gka1cDvFoUpDQmKdCHIM1r5x7%2FOVJuNhrpmYHqRmRRo%3D",
+    "title": "Derive Insights from BigQuery Data",
+    "earned": "Earned Sep 10, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27836532",
+    "image": "https://cdn.qwiklabs.com/pHkLMiHvnUFtS%2FRf%2BIPmOOIKcXecSCC6G0tDA%2BHBFpU%3D",
+    "title": "Arcade Adventure: Modern Cloud Architecture",
+    "earned": "Earned Sep 10, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27775698",
+    "image": "https://cdn.qwiklabs.com/dSzcOHc5i7AVZjqeohkKEpof%2BT%2B%2F5fCFS%2BoGTCB1Dek%3D",
+    "title": "Monitor and Manage Google Cloud Resources",
+    "earned": "Earned Sep  9, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27774134",
+    "image": "https://cdn.qwiklabs.com/IEWNi4suyzMQJt7LKy3BPJRuR5cR6gPgWtcCIZu%2FWcc%3D",
+    "title": "Arcade Simulator: DevOps Engineer",
+    "earned": "Earned Sep  9, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27762096",
+    "image": "https://cdn.qwiklabs.com/QjL1Wgc8CRxPwCJ7x92AX4pPkePawBXXQ1wNUdTdYEM%3D",
+    "title": "Arcade Voyage: App Modernization",
+    "earned": "Earned Sep  8, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27749456",
+    "image": "https://cdn.qwiklabs.com/dC9pSTV94Z6M3wfb5lRcwm98nAz80duv9TmelnFEr2g%3D",
+    "title": "Arcade Trail: Data Engineering and Security",
+    "earned": "Earned Sep  8, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27747245",
+    "image": "https://cdn.qwiklabs.com/%2BflywH26Tja%2FYSYj0tVpcU58Ld3fIIeaBoOoitNZb74%3D",
+    "title": "Create a Streaming Data Lake on Cloud Storage",
+    "earned": "Earned Sep  8, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27701632",
+    "image": "https://cdn.qwiklabs.com/yNA4RgclBVGt13aVdxqlbEXb7SvfevzNOeYs92iS7Hw%3D",
+    "title": "Develop Serverless Applications on Cloud Run",
+    "earned": "Earned Sep  7, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27700287",
+    "image": "https://cdn.qwiklabs.com/hL2bLB1QfL80B7nlpgiKM1VSvW4bfjfCZMg8n8P1hSo%3D",
+    "title": "Create a Secure Data Lake on Cloud Storage",
+    "earned": "Earned Sep  7, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27098368",
+    "image": "https://cdn.qwiklabs.com/iAUPykYUheJoZUrArdzblTqFRmY%2Fu6HCGgLoH1KH8fM%3D",
+    "title": "Arcade Re-Trail: Vaults &amp; Vectors",
+    "earned": "Earned Aug 21, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27098096",
+    "image": "https://cdn.qwiklabs.com/RsPaPRhQGncKX%2FwsgqXFQ6uLP6FJyAQBuuDIu0suG24%3D",
+    "title": "Manage Data Models in Looker",
+    "earned": "Earned Aug 21, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27097786",
+    "image": "https://cdn.qwiklabs.com/57Km4VtqMZ1aNHtmNLCkRTas4r0vcu7f%2BlQvUO9epME%3D",
+    "title": "Build a Data Mesh with Knowledge Catalog",
+    "earned": "Earned Aug 21, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27097752",
+    "image": "https://cdn.qwiklabs.com/vLbCm9dqTGstk0Ck0nY4zU8Z0ALwJpXi2i4OzMZAMxY%3D",
+    "title": "Build a Website on Google Cloud",
+    "earned": "Earned Aug 21, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27097721",
+    "image": "https://cdn.qwiklabs.com/%2FxRncr1QAR2l%2FDyKKwn9AAUVjQ73IjUtwlm3BoCV1FU%3D",
+    "title": "Set Up a Google Cloud Network",
+    "earned": "Earned Aug 21, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27097643",
+    "image": "https://cdn.qwiklabs.com/wkWJ0ZqoTzH9WptVKFbAwmJhbah%2B7SGzLw0ySDKNjSE%3D",
+    "title": "Implement Sensitive Data Protection on Google Cloud",
+    "earned": "Earned Aug 21, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27096727",
+    "image": "https://cdn.qwiklabs.com/5AR%2Fb6%2Fl0WzsY2Prm%2BKu74NK9ZmWBTsq3N7b1MXmaeQ%3D",
+    "title": "Deploy and Manage Applications on Google App Engine",
+    "earned": "Earned Aug 21, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27096049",
+    "image": "https://cdn.qwiklabs.com/6LkKzPShpLU5g593%2Br4o03tKvKyCi%2FyAZxyfnq%2B4o3w%3D",
+    "title": "Build LookML Objects in Looker",
+    "earned": "Earned Aug 21, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27054209",
+    "image": "https://cdn.qwiklabs.com/Wd86cQw9UwhtybfUCT3vGjex0P7VdpgWbmbkm%2FNIdO4%3D",
+    "title": "Implement Cloud Storage and Data Protection Solutions",
+    "earned": "Earned Aug 20, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/27002322",
+    "image": "https://cdn.qwiklabs.com/Ie4tsDxtDbDOeTKXiHcPHPJwqFTA6xS9vv8sGpnU8zQ%3D",
+    "title": "Arcade Voyage: Google Sheets",
+    "earned": "Earned Aug 19, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26954594",
+    "image": "https://cdn.qwiklabs.com/Jioool06BY9N7VfNQkvQkZ9Erh0XjxG8zdPQxJz5eDo%3D",
+    "title": "Spans and Plans",
+    "earned": "Earned Aug 18, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26844936",
+    "image": "https://cdn.qwiklabs.com/y%2BTesuIvsKnrFb3Xtfp47Cu%2Fx%2FoX1YEXD0y%2Fs%2BPNRak%3D",
+    "title": "Monitor and Log with Google Cloud Observability",
+    "earned": "Earned Aug 16, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26844358",
+    "image": "https://cdn.qwiklabs.com/Ot1PEkpVV%2BDpIsueu6ivQuIu99h6Hb3Y9ocxyC9vJAc%3D",
+    "title": "Create and Manage AlloyDB Instances",
+    "earned": "Earned Aug 16, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26843417",
+    "image": "https://cdn.qwiklabs.com/U99MhyBHoka0AV8iYmkXoJFDBlAYXVhtfjmrdFhRsKw%3D",
+    "title": "Streaming Analytics into BigQuery",
+    "earned": "Earned Aug 16, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26842098",
+    "image": "https://cdn.qwiklabs.com/65Pd0zpjzRHMv49XZZhvHJkbQK2xACKFY1ldTPWsJL8%3D",
+    "title": "Implementing Cloud Load Balancing for Compute Engine",
+    "earned": "Earned Aug 16, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26842033",
+    "image": "https://cdn.qwiklabs.com/xkhBYIFqjTNxQfdaHUTQs%2BixUnkzTd5%2FDbgHmmWAEoc%3D",
+    "title": "Build Google Cloud Infrastructure for AWS Professionals",
+    "earned": "Earned Aug 16, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26841186",
+    "image": "https://cdn.qwiklabs.com/ptFjKJhCElCLWeQv%2BT%2F%2Bquj23pUL5YzWprpljt6ceJ0%3D",
+    "title": "Implement Multimodal Vector Search with BigQuery",
+    "earned": "Earned Aug 16, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26840449",
+    "image": "https://cdn.qwiklabs.com/XquEIaBaj3QxuMhRhkj8KVCID36E5dhww1MDqsGTz8M%3D",
+    "title": "App Building with AppSheet",
+    "earned": "Earned Aug 16, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26839655",
+    "image": "https://cdn.qwiklabs.com/Vs%2FtJZhYzE6dd3YNzb6wUuDBOe2n1LLSlR%2FKyP9U4RA%3D",
+    "title": "Analyze Images with the Cloud Vision API",
+    "earned": "Earned Aug 16, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26816329",
+    "image": "https://cdn.qwiklabs.com/evdyXTK%2B7bFYY0CtRYIuU%2FNx4a0TW06vwiIjxVcKYMY%3D",
+    "title": "Create and Manage Cloud Spanner Instances",
+    "earned": "Earned Aug 15, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26815834",
+    "image": "https://cdn.qwiklabs.com/xira2p%2F3wlj6940tZP0W54GdMCwP144nYckzIpKbajY%3D",
+    "title": "Implement Cloud Security Fundamentals on Google Cloud",
+    "earned": "Earned Aug 15, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26815443",
+    "image": "https://cdn.qwiklabs.com/DyDpXxEyGg%2BAfTsXk1gjJ5gOHd74IicKsGE1fgQBuG8%3D",
+    "title": "Build Event-Driven Applications with Eventarc",
+    "earned": "Earned Aug 15, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26815174",
+    "image": "https://cdn.qwiklabs.com/XPJTvBC16tGtqvnsnQzjpBs6WwPMTEo%2FptFlQ%2BMBiHg%3D",
+    "title": "Protect Cloud Traffic with Chrome Enterprise Premium Security",
+    "earned": "Earned Aug 15, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26814228",
+    "image": "https://cdn.qwiklabs.com/783H7sxhnPI3cJvBYoGwsGSFc2w46bdlMMZrDDuzcRM%3D",
+    "title": "Store, Process, and Manage Data on Google Cloud - Command Line",
+    "earned": "Earned Aug 15, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26813858",
+    "image": "https://cdn.qwiklabs.com/%2FQCXEzViv64XY8tyFtMCHw7onppQaikKcCSnSEFbay0%3D",
+    "title": "Store, Process, and Manage Data on Google Cloud - Console",
+    "earned": "Earned Aug 15, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26813526",
+    "image": "https://cdn.qwiklabs.com/I1TlsJ7q%2BHAYAI14j1n1efZUJjzOX30ktybTOXCXTQE%3D",
+    "title": "Configure Service Accounts and IAM Roles for Google Cloud",
+    "earned": "Earned Aug 15, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26812704",
+    "image": "https://cdn.qwiklabs.com/9lB99Ij%2BMz%2FyOV0484V995beQHBMMCw0kimBFfZVtcM%3D",
+    "title": "The Basics of Google Cloud Compute",
+    "earned": "Earned Aug 15, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26812638",
+    "image": "https://cdn.qwiklabs.com/6Q5CNdqHERkyXinlT8VGnHRlkvvC7XbVI0jPXG3KmBs%3D",
+    "title": "Build a Secure Google Cloud Network",
+    "earned": "Earned Aug 15, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26811825",
+    "image": "https://cdn.qwiklabs.com/XEaSHIu5cNECoi%2FM%2Fw30h9DDBXPP9Sdke8OQQPv3gNQ%3D",
+    "title": "Deploy Kubernetes Applications on Google Cloud",
+    "earned": "Earned Aug 15, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26811394",
+    "image": "https://cdn.qwiklabs.com/O7gqYsPx7H7%2B9Ef%2B6pSk6gqAlzWIeDBHBx5EXfGziVU%3D",
+    "title": "Develop Serverless Apps with Firebase",
+    "earned": "Earned Aug 15, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26811364",
+    "image": "https://cdn.qwiklabs.com/%2BoWdm%2FHzI%2FCAdbH%2BVisNVqZNrjaLwl24mARfInT99b0%3D",
+    "title": "Google DeepMind: Train A Small Language Model",
+    "earned": "Earned Aug 15, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26810472",
+    "image": "https://cdn.qwiklabs.com/7O4cDMQlvwMCsyn8h5sdo9gQ7Efv9m0n0%2Bg%2Bj523k0I%3D",
+    "title": "Prepare Data for ML APIs on Google Cloud",
+    "earned": "Earned Aug 15, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26810393",
+    "image": "https://cdn.qwiklabs.com/wPsKX9ooPyDhRzoyLxsCaz5VW%2B7hof8T9Qo0j5%2BRIG4%3D",
+    "title": "Secure Software Delivery",
+    "earned": "Earned Aug 15, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26809985",
+    "image": "https://cdn.qwiklabs.com/IxQNo3BEvRrPJ7gHFoaeqNT6p9lYF3VojGrMuKzmV5Q%3D",
+    "title": "Use APIs to Work with Cloud Storage",
+    "earned": "Earned Aug 15, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26809874",
+    "image": "https://cdn.qwiklabs.com/HericulAgqoO5iEbCxvzeXLJiX%2F4r9KeW3xrI9AKXHw%3D",
+    "title": "Optimize Costs for Google Kubernetes Engine",
+    "earned": "Earned Aug 15, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26800388",
+    "image": "https://cdn.qwiklabs.com/PUSiCmSF%2Bb3bUaIYgmjZAxsxo0ALtju8g3OMu9MR8Fw%3D",
+    "title": "Build a Data Warehouse with BigQuery",
+    "earned": "Earned Aug 14, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26799853",
+    "image": "https://cdn.qwiklabs.com/UqdvMapFoKWHIN%2BjDV596PzFC3RIs4y8rNIAx3zPxzs%3D",
+    "title": "Analyze Speech and Language with Google APIs",
+    "earned": "Earned Aug 14, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26799284",
+    "image": "https://cdn.qwiklabs.com/t9dqycKsjvFNl4cstZfSxr2eH65dyfh0rr7ZEowcePI%3D",
+    "title": "Analyze BigQuery Data in Connected Sheets",
+    "earned": "Earned Aug 14, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26798338",
+    "image": "https://cdn.qwiklabs.com/V5hy7oPDiKov68Q4kTcuuA%2BMHNMX3Z0my4mncKPPGvY%3D",
+    "title": "Build Infrastructure with Terraform on Google Cloud",
+    "earned": "Earned Aug 14, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26794716",
+    "image": "https://cdn.qwiklabs.com/71CMWruZ74IKhS8Q%2FXNVGvByPOttBK9%2BZj4VaiE59PQ%3D",
+    "title": "Deploy and Secure Serverless APIs with API Gateway",
+    "earned": "Earned Aug 14, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26793580",
+    "image": "https://cdn.qwiklabs.com/RirU8RWY5PjdV0EU8bdob75oXyFU52Jyf%2FdRH6hC3Nc%3D",
+    "title": "Organize and Govern Data with Knowledge Catalog",
+    "earned": "Earned Aug 14, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26753165",
+    "image": "https://cdn.qwiklabs.com/0G14HiieShpIQWSv%2Fmz%2FHONOtEtCljUWKGMYyfEnsC4%3D",
+    "title": "Use Functions, Formulas, and Charts in Google Sheets",
+    "earned": "Earned Aug 13, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26747068",
+    "image": "https://cdn.qwiklabs.com/tfve7xMaebsownBg5sa8CUfJgurTxKMJ7TbxIlm1tec%3D",
+    "title": "Arcade Simulator: Network Security Engineer",
+    "earned": "Earned Aug 13, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26674211",
+    "image": "https://cdn.qwiklabs.com/rkz0zAOfJFxDCvn9CtoqPGSjRuZpXdT3gtvaKGfcf7I%3D",
+    "title": "Privileged Access with IAM",
+    "earned": "Earned Aug 12, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26624483",
+    "image": "https://cdn.qwiklabs.com/o6ONE%2FmyPJMTbVrgKN5PXANjI%2B%2BNh7TFrGUBRvaBrss%3D",
+    "title": "Create Your First Gemini Enterprise Application",
+    "earned": "Earned Aug 11, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26624295",
+    "image": "https://cdn.qwiklabs.com/5Ex8C2msJUF%2BDF%2FnKyCze19nMfUf1nB0TVQ42BHtGFk%3D",
+    "title": "Orchestrate Multi-agent Workflows with Gemini Enterprise",
+    "earned": "Earned Aug 11, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26605380",
+    "image": "https://cdn.qwiklabs.com/Bp281hmVeuAOGo4f2jcJSghF2De99fWbcHcrGgBM5Sg%3D",
+    "title": "Arcade Base Camp August 2026",
+    "earned": "Earned Aug 11, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26543700",
+    "image": "https://cdn.qwiklabs.com/Y0Bg%2FY1trEfF5%2FwE6ByOpoQbSFoZzhKA4AzWbVuBFmY%3D",
+    "title": "Connecting Cloud Networks with NCC",
+    "earned": "Earned Aug 10, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26539620",
+    "image": "https://cdn.qwiklabs.com/6b1HAqO0MPg%2F0awR9UdKAUgzrfl9qmnty1cjI2NcPNU%3D",
+    "title": "Monitoring in Google Cloud",
+    "earned": "Earned Aug 10, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26537285",
+    "image": "https://cdn.qwiklabs.com/IwoV5yIJ1i3GJ%2BULEbrXtiv%2BhXE3wV9QFTLOd8R3DSo%3D",
+    "title": "Analyze Sentiment with Natural Language API",
+    "earned": "Earned Aug 10, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26464598",
+    "image": "https://cdn.qwiklabs.com/y0ljecuLROGjvQ8c%2FF44IcE6K3QztUCKZM3rbXHl9ew%3D",
+    "title": "Implement CI/CD Pipelines on Google Cloud",
+    "earned": "Earned Aug  9, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26464582",
+    "image": "https://cdn.qwiklabs.com/s3e1UZHazecZsWuyxDItQZQcaqADNVdemWghibCfeEQ%3D",
+    "title": "Arcade Trail: Cloud Delivery Systems",
+    "earned": "Earned Aug  9, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26429848",
+    "image": "https://cdn.qwiklabs.com/WUI%2BxvmLhj0U4q2%2BG6Ec%2Bt5OpG8GoHQ%2FI2ONuFjKSlE%3D",
+    "title": "Develop with Apps Script and AppSheet",
+    "earned": "Earned Aug  8, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26395032",
+    "image": "https://cdn.qwiklabs.com/kv48x9UK42Fqn4QPSyXlXjHwTf75c9YtMBQb2kbVJgc%3D",
+    "title": "Manage Kubernetes in Google Cloud",
+    "earned": "Earned Aug  7, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26394936",
+    "image": "https://cdn.qwiklabs.com/t8Eudux9kAj%2BngKmcxbc0QEX7UQ05HM9msixXv0vAi4%3D",
+    "title": "Share Data Using Google Data Cloud",
+    "earned": "Earned Aug  7, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26394849",
+    "image": "https://cdn.qwiklabs.com/ANWlnJBKahtIS3eQv7YxmnmJkhWYc3VSUheHu1TOpBY%3D",
+    "title": "Arcade Adventure: Data Vault",
+    "earned": "Earned Aug  7, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/26161607",
+    "image": "https://cdn.qwiklabs.com/%2FDLgYSRx2wyVeNmu3ZJFhu8i8hgut1CW7Rx3nLf6bNM%3D",
+    "title": "Discover and Protect Sensitive Data Across Your Ecosystem",
+    "earned": "Earned Jul 31, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/25137852",
+    "image": "https://cdn.qwiklabs.com/YE%2FsUPAgkgzNQ3R37uaSd0VbsMyaQ1CYDIr9Ax%2B3V8o%3D",
+    "title": "Arcade Adventure: App Dev and Cloud Observability",
+    "earned": "Earned Jun 25, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/25128584",
+    "image": "https://cdn.qwiklabs.com/E3sIcfF6fAg9NM15SrpxBEbbQXYCdw4UnIxM1m%2FI0gI%3D",
+    "title": "Arcade Trail: Data Engineering and Information Protection",
+    "earned": "Earned Jun 25, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/25113612",
+    "image": "https://cdn.qwiklabs.com/YBTJT7XFewk0opYHO3X4YokU4TEiiJ55oHsV2xPKAXw%3D",
+    "title": "Logic Log",
+    "earned": "Earned Jun 24, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/24483356",
+    "image": "https://cdn.qwiklabs.com/acM7OgvUEOhSeWdlHH%2B5hkF9BHL%2BPI6uToEYrcGt50A%3D",
+    "title": "Arcade Voyage: Data Governance and Firebase Foundations",
+    "earned": "Earned May 28, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/24367167",
+    "image": "https://cdn.qwiklabs.com/exXBfYMpTTZHZL4JAIIMbbtPXtLOIJmyCnmxuw4ggto%3D",
+    "title": "Arcade Base Camp May 2026",
+    "earned": "Earned May 23, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/24203747",
+    "image": "https://cdn.qwiklabs.com/W9saOrXeoBb9OcfBF9ifcv%2FV%2FeqOaQTbZkUmo8wcs38%3D",
+    "title": "Arcade Adventure: Modern App Deployment",
+    "earned": "Earned May 16, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/23224677",
+    "image": "https://cdn.qwiklabs.com/kUX3%2BYw%2F%2FWX%2FF7Gt0ZSwP1AJt0AqAqz5Mh4HxndnAuo%3D",
+    "title": "Arcade Adventure: Security, Data, and Cloud Operations",
+    "earned": "Earned Mar 24, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/23171321",
+    "image": "https://cdn.qwiklabs.com/IRPG3Yw9cQHCqDtIwhC77r19TXnE6Hga6%2FZGsUto66s%3D",
+    "title": "Arcade Voyage: AI and Cloud Deployment",
+    "earned": "Earned Mar 22, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/23154824",
+    "image": "https://cdn.qwiklabs.com/429CGBQ%2BnNPDKrNH%2BTvKJHg0nfDefEPufz08GLBpZVQ%3D",
+    "title": "Arcade Trail: Automation and Analytics",
+    "earned": "Earned Mar 21, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/23153969",
+    "image": "https://cdn.qwiklabs.com/A%2B1718y0NBe7Wop2uyFCtW3aIFh4iiDJkxV2ShnZjHA%3D",
+    "title": "Arcade Base Camp March 2026",
+    "earned": "Earned Mar 21, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/23054614",
+    "image": "https://cdn.qwiklabs.com/m7NpHJriXFqSWW9Gjd%2FcVloP8TaR9KansT35NNCzi6I%3D",
+    "title": "Work Meets Play: Metrics in Motion",
+    "earned": "Earned Mar 16, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/22880314",
+    "image": "https://cdn.qwiklabs.com/VwT%2B6YgyR2ehxprdIHHAM59LAhZONg2g3dtaPMxB4M4%3D",
+    "title": "Arcade March 2026 Sprint 4",
+    "earned": "Earned Mar  9, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/22879747",
+    "image": "https://cdn.qwiklabs.com/Yqg9vzg5Pa9%2FDf2feM%2BGZ8pgUNoPnp2gKooeuOxCi5E%3D",
+    "title": "Arcade March 2026 Sprint 3",
+    "earned": "Earned Mar  9, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/22879509",
+    "image": "https://cdn.qwiklabs.com/qVef9aFjLaIc3DC6zdffuk8CiHj8d%2BMPywH41hXnJlM%3D",
+    "title": "Arcade March 2026 Sprint 2",
+    "earned": "Earned Mar  9, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/22879345",
+    "image": "https://cdn.qwiklabs.com/Um6GrGIh0o12UBnS7YNa0a3XjrZw6mnCLqgQdNNPf6Y%3D",
+    "title": "Arcade March 2026 Sprint 1",
+    "earned": "Earned Mar  9, 2026 EDT"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/22675012",
+    "image": "https://cdn.qwiklabs.com/Z2tX5Tm%2FAvp8wYanE%2FqP5zeltZbAZNdD23wP6rDC4aY%3D",
+    "title": "Arcade Certification Zone February 2026",
+    "earned": "Earned Feb 28, 2026 EST"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/22672337",
+    "image": "https://cdn.qwiklabs.com/g9QaSmyFshLtblLzd0DfmZJxWp%2BzafFKKv9NGGXCZmY%3D",
+    "title": "Arcade Base Camp February 2026",
+    "earned": "Earned Feb 28, 2026 EST"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/22577418",
+    "image": "https://cdn.qwiklabs.com/Rmkd7Y0yxcid9D91kKKJ%2FobHLZFVN0%2BlN%2FgX24jF6bo%3D",
+    "title": "Arcade Trail: Application Development",
+    "earned": "Earned Feb 25, 2026 EST"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/22569329",
+    "image": "https://cdn.qwiklabs.com/fWPypa%2FxJQ7EmeFb8JY6uODx27gudfX1ZQ3Tj%2F3X9DY%3D",
+    "title": "Skills At The Pitch",
+    "earned": "Earned Feb 25, 2026 EST"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/22550205",
+    "image": "https://cdn.qwiklabs.com/egXdmWNKvdZdUli9JWSNPen0vnMsUYEgu2njo%2BcvSVE%3D",
+    "title": "From Foundations To Wonders",
+    "earned": "Earned Feb 24, 2026 EST"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/22505063",
+    "image": "https://cdn.qwiklabs.com/F7%2FfA0Ahl7R2nHbmBLh7q6fuQNCPRua8rMwdR9ycom8%3D",
+    "title": "Work Meets Play: Journeys Made Easy",
+    "earned": "Earned Feb 23, 2026 EST"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/22503524",
+    "image": "https://cdn.qwiklabs.com/ibkN2ahNqNmduoGtGmqenSxAJoi9iJgLtjXIEGzGWco%3D",
+    "title": "Arcade Voyage: Data Tools",
+    "earned": "Earned Feb 23, 2026 EST"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/22031365",
+    "image": "https://cdn.qwiklabs.com/EfroK%2BdhxRpGgXxEFeCboNsb4KZWLQ8ep%2FjLg7al8Kc%3D",
+    "title": "Arcade February 2026 Sprint 3",
+    "earned": "Earned Feb  5, 2026 EST"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/22031181",
+    "image": "https://cdn.qwiklabs.com/xoB71CnytOlhFNsIoQpj7oiQwDA8ZZO7dr077s3FWIg%3D",
+    "title": "Arcade February 2026 Sprint 4",
+    "earned": "Earned Feb  5, 2026 EST"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/21961832",
+    "image": "https://cdn.qwiklabs.com/GAGCON6jmj7GTy3czln75XzAhuRqW4Y5ObkCbDiFcLc%3D",
+    "title": "Arcade February 2026 Sprint 2",
+    "earned": "Earned Feb  3, 2026 EST"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/21960542",
+    "image": "https://cdn.qwiklabs.com/N51vf1M8p2WAXSQ%2FcftnEObWuFU33Jc3E%2FwhmlYEhEo%3D",
+    "title": "Arcade February 2026 Sprint 1",
+    "earned": "Earned Feb  3, 2026 EST"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/21791494",
+    "image": "https://cdn.qwiklabs.com/OKcbA2pNhCWnn17RacVRb%2BPwqGGyKHQs%2B5DDKpPiyHE%3D",
+    "title": "Google Skills Arcade Base Camp January 2026",
+    "earned": "Earned Jan 27, 2026 EST"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/21745562",
+    "image": "https://cdn.qwiklabs.com/vijt%2FHhQuNsHwSZzzAyToCxKpq1fIfGlG3f2a4Hdqmo%3D",
+    "title": "Work Meets Play: A Cloud That Cares",
+    "earned": "Earned Jan 26, 2026 EST"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/21732252",
+    "image": "https://cdn.qwiklabs.com/jYebaq0KueqOtV%2Fuo4ZzfGU8wviSChvJf3FFBVd5RSE%3D",
+    "title": "Level 3: Applied Generative AI",
+    "earned": "Earned Jan 25, 2026 EST"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/21720110",
+    "image": "https://cdn.qwiklabs.com/24PZYrEjWJ83X1Y41w259nTpeBulffMQVVDtukri7g0%3D",
+    "title": "Level 2: Event-Driven Systems",
+    "earned": "Earned Jan 24, 2026 EST"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/21704096",
+    "image": "https://cdn.qwiklabs.com/VTvlfPXpDraf6pIzUZz2IK%2FRjsmKKtqAkEGFkb4QWIU%3D",
+    "title": "Google Skills Arcade Certification Zone January 2026",
+    "earned": "Earned Jan 23, 2026 EST"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/21669407",
+    "image": "https://cdn.qwiklabs.com/s2Z%2FNVvCyvqdC7YjLTIWb1hG4x%2BQ7NzrqC7x5g2gXU0%3D",
+    "title": "Level 1: Compute, Storage and Monitoring",
+    "earned": "Earned Jan 22, 2026 EST"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/21667798",
+    "image": "https://cdn.qwiklabs.com/JyDrLJUtV80PNWj9zonAayaa%2BXS3ANokYL%2FwcLP3U1s%3D",
+    "title": "Google Skills Arcade Trivia January 2026 Week 3",
+    "earned": "Earned Jan 22, 2026 EST"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/21666736",
+    "image": "https://cdn.qwiklabs.com/erhiNzYTyTu8DMXe9Qdqw0wjrwVbtTpD9WaRtgoF0tY%3D",
+    "title": "Google Skills Arcade Trivia January 2026 Week 2",
+    "earned": "Earned Jan 22, 2026 EST"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/21652988",
+    "image": "https://cdn.qwiklabs.com/cMYTpo1BSL8YRRBUn1QkY8TgL2rehGS6wTCWHnciurM%3D",
+    "title": "Google Skills Arcade Trivia January 2026 Week 4",
+    "earned": "Earned Jan 21, 2026 EST"
+  },
+  {
+    "badgeUrl": "https://www.skills.google/public_profiles/844f7b5a-4b0d-4fa2-8bc9-99d65271c633/badges/21630739",
+    "image": "https://cdn.qwiklabs.com/OKs5G92MGsypQteta56%2FA%2FOT1MDhKfnvjSd7qJTCDKo%3D",
+    "title": "Google Skills Arcade Trivia January 2026 Week 1",
+    "earned": "Earned Jan 20, 2026 EST"
+  }
+]
